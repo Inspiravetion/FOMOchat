@@ -1,0 +1,7 @@
+[package]
+name = "todone"
+version = "0.1.0"
+authors = ["Inspiravetion <charlie.lipford.code@gmail.com>"]
+
+[dependencies]
+websocket = "~0.12.2"
