@@ -1,0 +1,1 @@
+cargo run --manifest-path ./back/Cargo.toml

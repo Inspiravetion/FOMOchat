@@ -1,0 +1,10 @@
+[package]
+name = "fomochat"
+version = "0.1.0"
+authors = ["Inspiravetion <charlie.lipford.code@gmail.com>"]
+
+[dependencies]
+websocket = "~0.12.2"
+iron = "*"
+staticfile = "0.0.5"
+mount = "0.0.8"
